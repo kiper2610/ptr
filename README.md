@@ -25,7 +25,12 @@ cd ptr
 
 ## Запуск
 
-1)  ``` chmod +x ptr``` ( если есть ошибка: permission denied: ./ptr )
-
-2) ```./ptr``` - Запуск самой программы
+1)
+ ```bash
+ chmod +x ptr
+``` ( если есть ошибка: permission denied: ./ptr )
+3)
+ ```bash
+./ptr
+``` - Запуск самой программы
 
