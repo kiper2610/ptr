@@ -25,12 +25,10 @@ cd ptr
 
 ## Запуск
 
-1)
 ```bash
  chmod +x ptr
 ```
  ( если есть ошибка: permission denied: ./ptr )
-3)
  ```bash
 ./ptr
 ```
