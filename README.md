@@ -14,7 +14,7 @@
 
 1)
 ```bash
-git clone https://github.com/kiper2610/ptr.git
+git clone https://github.com/lackyhy/ptr.git
 ```
 2)
 ```bash
