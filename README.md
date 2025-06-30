@@ -24,11 +24,11 @@ cd ptr
 ```
 
 ## Запуск
-
+ ( если есть ошибка: permission denied: ./ptr )
 ```bash
  chmod +x ptr
 ```
- ( если есть ошибка: permission denied: ./ptr )
+
  ```bash
 ./ptr
 ```
