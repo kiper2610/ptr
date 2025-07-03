@@ -24,9 +24,9 @@ cd lcke
 ```
 
 ## Запуск
- ( если есть ошибка: permission denied: ./ptr )
+ ( если есть ошибка: permission denied: ./lcke )
 ```bash
- chmod +x ptr
+ chmod +x lcke
 ```
 
  ```bash
